@@ -1,6 +1,8 @@
 Microsoft Academic Scraper
 =================
 
+Created by [Pepy](https://github.com/pepypeppep)
+
 Install
 ----------
 
