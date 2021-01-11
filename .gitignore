@@ -1,2 +1,5 @@
 *.csv
 apikey.conf
+storage/
+.env
+.vscode

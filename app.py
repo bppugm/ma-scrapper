@@ -8,7 +8,7 @@ from datetime import date, datetime
 import multiprocessing
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
-UPLOAD_FOLDER = os.path.join(APP_ROOT, 'static', 'documents')
+UPLOAD_FOLDER = os.path.join(APP_ROOT, 'storage')
 CONFIG_FOLDER = os.path.join(APP_ROOT, 'config')
 
 app = Flask(__name__, static_url_path='/static')
